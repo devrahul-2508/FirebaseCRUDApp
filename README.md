@@ -9,4 +9,4 @@ DashBoard | BottomSheet | Login | Details
 
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
--[FireBase](https://firebase.google.com/) - Realtime Database for performing CRUD Operations 
+- [FireBase](https://firebase.google.com/) - Realtime Database for performing CRUD Operations 
